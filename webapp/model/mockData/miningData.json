@@ -1,0 +1,313 @@
+{
+    "miningListSet":[
+    {
+        "Location_ID": "1",
+        "Location_Description": "Northern Ridge",
+        "Mining_Resource_Allocated": "500 tons",
+        "Total_Cost": "$1,200,000",
+        "Number_of_Drills_Performed": 3,
+        "Type_of_Mineral": "Gold",
+        "Report_of_Possible_Mineral": "High"
+    },
+    {
+        "Location_ID": "2",
+        "Location_Description": "Eastern Valley",
+        "Mining_Resource_Allocated": "300 tons",
+        "Total_Cost": "$800,000",
+        "Number_of_Drills_Performed": 2,
+        "Type_of_Mineral": "Silver",
+        "Report_of_Possible_Mineral": "Moderate"
+    },
+    {
+        "Location_ID": "3",
+        "Location_Description": "Western Hills",
+        "Mining_Resource_Allocated": "450 tons",
+        "Total_Cost": "$1,000,000",
+        "Number_of_Drills_Performed": 4,
+        "Type_of_Mineral": "Copper",
+        "Report_of_Possible_Mineral": "Low"
+    },
+    {
+        "Location_ID": "4",
+        "Location_Description": "Southern Plains",
+        "Mining_Resource_Allocated": "600 tons",
+        "Total_Cost": "$1,500,000",
+        "Number_of_Drills_Performed": 5,
+        "Type_of_Mineral": "Iron",
+        "Report_of_Possible_Mineral": "High"
+    },
+    {
+        "Location_ID": "5",
+        "Location_Description": "Central Peak",
+        "Mining_Resource_Allocated": "350 tons",
+        "Total_Cost": "$900,000",
+        "Number_of_Drills_Performed": 3,
+        "Type_of_Mineral": "Zinc",
+        "Report_of_Possible_Mineral": "Moderate"
+    },
+    {
+        "Location_ID": "6",
+        "Location_Description": "Highland Ridge",
+        "Mining_Resource_Allocated": "400 tons",
+        "Total_Cost": "$1,100,000",
+        "Number_of_Drills_Performed": 2,
+        "Type_of_Mineral": "Lead",
+        "Report_of_Possible_Mineral": "Low"
+    },
+    {
+        "Location_ID": "7",
+        "Location_Description": "Lowland Valley",
+        "Mining_Resource_Allocated": "550 tons",
+        "Total_Cost": "$1,300,000",
+        "Number_of_Drills_Performed": 4,
+        "Type_of_Mineral": "Nickel",
+        "Report_of_Possible_Mineral": "High"
+    },
+    {
+        "Location_ID": "8",
+        "Location_Description": "Mountain Base",
+        "Mining_Resource_Allocated": "500 tons",
+        "Total_Cost": "$1,200,000",
+        "Number_of_Drills_Performed": 3,
+        "Type_of_Mineral": "Tin",
+        "Report_of_Possible_Mineral": "Moderate"
+    },
+    {
+        "Location_ID": "9",
+        "Location_Description": "Forest Edge",
+        "Mining_Resource_Allocated": "420 tons",
+        "Total_Cost": "$950,000",
+        "Number_of_Drills_Performed": 3,
+        "Type_of_Mineral": "Platinum",
+        "Report_of_Possible_Mineral": "Low"
+    },
+    {
+        "Location_ID": "10",
+        "Location_Description": "Desert Oasis",
+        "Mining_Resource_Allocated": "380 tons",
+        "Total_Cost": "$850,000",
+        "Number_of_Drills_Performed": 2,
+        "Type_of_Mineral": "Uranium",
+        "Report_of_Possible_Mineral": "High"
+    },
+    {
+        "Location_ID": "11",
+        "Location_Description": "Coastal Cliff",
+        "Mining_Resource_Allocated": "460 tons",
+        "Total_Cost": "$1,050,000",
+        "Number_of_Drills_Performed": 4,
+        "Type_of_Mineral": "Cobalt",
+        "Report_of_Possible_Mineral": "Moderate"
+    },
+    {
+        "Location_ID": "12",
+        "Location_Description": "Island Shore",
+        "Mining_Resource_Allocated": "500 tons",
+        "Total_Cost": "$1,200,000",
+        "Number_of_Drills_Performed": 3,
+        "Type_of_Mineral": "Lithium",
+        "Report_of_Possible_Mineral": "Low"
+    },
+    {
+        "Location_ID": "13",
+        "Location_Description": "Rocky Plateau",
+        "Mining_Resource_Allocated": "520 tons",
+        "Total_Cost": "$1,250,000",
+        "Number_of_Drills_Performed": 5,
+        "Type_of_Mineral": "Bauxite",
+        "Report_of_Possible_Mineral": "High"
+    },
+    {
+        "Location_ID": "14",
+        "Location_Description": "Savannah Field",
+        "Mining_Resource_Allocated": "480 tons",
+        "Total_Cost": "$1,100,000",
+        "Number_of_Drills_Performed": 3,
+        "Type_of_Mineral": "Manganese",
+        "Report_of_Possible_Mineral": "Moderate"
+    },
+    {
+        "Location_ID": "15",
+        "Location_Description": "Glacial Valley",
+        "Mining_Resource_Allocated": "550 tons",
+        "Total_Cost": "$1,300,000",
+        "Number_of_Drills_Performed": 4,
+        "Type_of_Mineral": "Chromium",
+        "Report_of_Possible_Mineral": "Low"
+    },
+    {
+        "Location_ID": "16",
+        "Location_Description": "River Bend",
+        "Mining_Resource_Allocated": "480 tons",
+        "Total_Cost": "$1,100,000",
+        "Number_of_Drills_Performed": 3,
+        "Type_of_Mineral": "Titanium",
+        "Report_of_Possible_Mineral": "High"
+    },
+    {
+        "Location_ID": "17",
+        "Location_Description": "Sunset Ridge",
+        "Mining_Resource_Allocated": "520 tons",
+        "Total_Cost": "$1,250,000",
+        "Number_of_Drills_Performed": 4,
+        "Type_of_Mineral": "Vanadium",
+        "Report_of_Possible_Mineral": "Moderate"
+    },
+    {
+        "Location_ID": "18",
+        "Location_Description": "Pine Forest",
+        "Mining_Resource_Allocated": "450 tons",
+        "Total_Cost": "$1,000,000",
+        "Number_of_Drills_Performed": 3,
+        "Type_of_Mineral": "Palladium",
+        "Report_of_Possible_Mineral": "Low"
+    },
+    {
+        "Location_ID": "19",
+        "Location_Description": "Crystal Lake",
+        "Mining_Resource_Allocated": "500 tons",
+        "Total_Cost": "$1,200,000",
+        "Number_of_Drills_Performed": 4,
+        "Type_of_Mineral": "Rhodium",
+        "Report_of_Possible_Mineral": "High"
+    },
+    {
+        "Location_ID": "20",
+        "Location_Description": "Emerald Valley",
+        "Mining_Resource_Allocated": "400 tons",
+        "Total_Cost": "$1,100,000",
+        "Number_of_Drills_Performed": 2,
+        "Type_of_Mineral": "Tungsten",
+        "Report_of_Possible_Mineral": "Moderate"
+    },
+    {
+        "Location_ID": "21",
+        "Location_Description": "Golden Meadow",
+        "Mining_Resource_Allocated": "550 tons",
+        "Total_Cost": "$1,300,000",
+        "Number_of_Drills_Performed": 5,
+        "Type_of_Mineral": "Molybdenum",
+        "Report_of_Possible_Mineral": "Low"
+    },
+    {
+        "Location_ID": "22",
+        "Location_Description": "Thunder Peak",
+        "Mining_Resource_Allocated": "380 tons",
+        "Total_Cost": "$850,000",
+        "Number_of_Drills_Performed": 2,
+        "Type_of_Mineral": "Antimony",
+        "Report_of_Possible_Mineral": "High"
+    },
+    {
+        "Location_ID": "23",
+        "Location_Description": "Shadow Valley",
+        "Mining_Resource_Allocated": "460 tons",
+        "Total_Cost": "$1,050,000",
+        "Number_of_Drills_Performed": 3,
+        "Type_of_Mineral": "Gallium",
+        "Report_of_Possible_Mineral": "Moderate"
+    },
+    {
+        "Location_ID": "24",
+        "Location_Description": "Blossom Field",
+        "Mining_Resource_Allocated": "420 tons",
+        "Total_Cost": "$950,000",
+        "Number_of_Drills_Performed": 3,
+        "Type_of_Mineral": "Indium",
+        "Report_of_Possible_Mineral": "Low"
+    },
+    {
+        "Location_ID": "25",
+        "Location_Description": "Windy Ridge",
+        "Mining_Resource_Allocated": "500 tons",
+        "Total_Cost": "$1,200,000",
+        "Number_of_Drills_Performed": 4,
+        "Type_of_Mineral": "Bismuth",
+        "Report_of_Possible_Mineral": "High"
+    }
+],
+
+    "miningSupplier": [
+        {
+            "Contractor_Name": "Gold Diggers Inc.",
+            "Contact": "123-456-7890",
+            "Location": "Northern Ridge",
+            "Type_of_Mineral": "Gold"
+        },
+        {
+            "Contractor_Name": "Silver Seekers Ltd.",
+            "Contact": "987-654-3210",
+            "Location": "Eastern Valley",
+            "Type_of_Mineral": "Silver"
+        },
+        {
+            "Contractor_Name": "Copper Kings Co.",
+            "Contact": "555-123-4567",
+            "Location": "Western Hills",
+            "Type_of_Mineral": "Copper"
+        },
+        {
+            "Contractor_Name": "Iron Innovators",
+            "Contact": "444-987-6543",
+            "Location": "Southern Plains",
+            "Type_of_Mineral": "Iron"
+        },
+        {
+            "Contractor_Name": "Zinc Zealots",
+            "Contact": "333-456-7890",
+            "Location": "Central Peak",
+            "Type_of_Mineral": "Zinc"
+        },
+        {
+            "Contractor_Name": "Lead Legends",
+            "Contact": "222-123-4567",
+            "Location": "Highland Ridge",
+            "Type_of_Mineral": "Lead"
+        },
+        {
+            "Contractor_Name": "Nickel Navigators",
+            "Contact": "111-987-6543",
+            "Location": "Lowland Valley",
+            "Type_of_Mineral": "Nickel"
+        },
+        {
+            "Contractor_Name": "Tin Titans",
+            "Contact": "666-456-7890",
+            "Location": "Mountain Base",
+            "Type_of_Mineral": "Tin"
+        },
+        {
+            "Contractor_Name": "Platinum Pioneers",
+            "Contact": "777-123-4567",
+            "Location": "Forest Edge",
+            "Type_of_Mineral": "Platinum"
+        },
+        {
+            "Contractor_Name": "Uranium Unifiers",
+            "Contact": "888-987-6543",
+            "Location": "Desert Oasis",
+            "Type_of_Mineral": "Uranium"
+        },
+        {
+            "Contractor_Name": "Cobalt Crusaders",
+            "Contact": "999-456-7890",
+            "Location": "Coastal Cliff",
+            "Type_of_Mineral": "Cobalt"
+        },
+        {
+            "Contractor_Name": "Lithium Luminaries",
+            "Contact": "101-123-4567",
+            "Location": "Island Shore",
+            "Type_of_Mineral": "Lithium"
+        },
+        {
+            "Contractor_Name": "Bauxite Barons",
+            "Contact": "202-987-6543",
+            "Location": "Rocky Plateau",
+            "Type_of_Mineral": "Bauxite"
+        }
+    ]
+
+
+   
+}
