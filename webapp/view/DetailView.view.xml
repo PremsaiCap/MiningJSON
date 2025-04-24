@@ -41,10 +41,33 @@
                     </IconTabFilter>
                     <IconTabFilter icon="sap-icon://supplier">
                     <f:SimpleForm >
+                    <!-- <HBox>
                         <Label text="Contractor Name"></Label>
-                        <Input id="idInputSupp" width="200px" liveChange="onFilter" placeholder="Contractor Name"></Input>
+                        <Input id="idInputSupp" width="200px" liveChange="onFilter" placeholder="Contractor Name">
+                            <layoutData>
+                                <sap.ui.layout.FlexItemData styleClass="sapUiSmallMarginEnd"/>
+                            </layoutData>
+                        </Input>
+                        <ToolbarSpacer></ToolbarSpacer>
                         <Label text="Location"></Label>
-                        <Input id="idInputCity" width="200px" liveChange="onFilter" placeholder="Location"></Input>
+                        <Input id="idInputCity" width="200px" liveChange="onFilter" placeholder="Location">
+                            <layoutData>
+                                <sap.ui.layout.FlexItemData styleClass="sapUiSmallMarginBegin"/>
+                            </layoutData>
+                        </Input>
+                    </HBox> -->
+                    <HBox justifyContent="SpaceBetween">
+    <VBox>
+        <Label text="Contractor Name"></Label>
+        <Input id="idInputSupp" width="200px" liveChange="onFilter" placeholder="Contractor Name"/>
+    </VBox>
+    <VBox>
+        <Label text="Location"></Label>
+        <Input id="idInputCity" width="200px" liveChange="onFilter" placeholder="Location"/>
+    </VBox>
+</HBox>
+
+                        
                     </f:SimpleForm>
                         <Table items="{MiningModel>/miningSupplier}" id="idMTable">
                             <columns>
